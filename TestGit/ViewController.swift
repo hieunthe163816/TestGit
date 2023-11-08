@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("xin chao mọi người")
         // Do any additional setup after loading the view.
     }
 
